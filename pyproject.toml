@@ -1,17 +1,17 @@
 [project]
-name = "example_package_YOUR_USERNAME_HERE"
+name = "hopene"
 version = "0.0.1"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="DUXCRYr", email="shackles.build@gmail.com" },
 ]
 description = "A small example package"
 readme = "README.md"
-requires-python = ">=3.8"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent",
-]
+# requires-python = ">=3.8"
+# classifiers = [
+#     "Programming Language :: Python :: 3",
+#     "License :: OSI Approved :: MIT License",
+#     "Operating System :: OS Independent",
+# ]
 
 [project.urls]
 Homepage = "https://github.com/DUXCRY/hopene"
